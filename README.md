@@ -49,16 +49,16 @@ To run this project locally, follow these steps:
    ```bash
    git clone https://github.com/your-username/RedRibbonClub.git
 2. **Navigate to the project directory:**
-
-cd RedRibbonClub
+   ```bash
+   cd RedRibbonClub
 
 3. **Install dependencies:**
-
-flutter pub get
+   ```bash
+   flutter pub get
 
 4. **Run the app:**
-
-flutter run
+   ```bash
+   flutter run
 
 Usage
 Sign Up or Log In: Create a new account or log in to your existing account.
